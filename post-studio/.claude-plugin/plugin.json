@@ -1,12 +1,28 @@
 {
   "name": "post-studio",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Post Studio by Adgento: a free social-post wizard inside Claude. Brief, copy, on-brand designs from your design systems, and PNG export.",
-  "author": { "name": "Adgento", "email": "hello@adgento.app", "url": "https://adgento.app" },
+  "author": {
+    "name": "Adgento",
+    "email": "hello@adgento.app",
+    "url": "https://adgento.app"
+  },
   "homepage": "https://adgento.app/post-studio",
   "license": "Proprietary",
-  "keywords": ["social media", "posts", "design", "marketing", "hebrew"],
+  "keywords": [
+    "social media",
+    "posts",
+    "design",
+    "marketing",
+    "hebrew"
+  ],
   "mcpServers": {
-    "post-studio": { "type": "stdio", "command": "node", "args": ["${CLAUDE_PLUGIN_ROOT}/server/telemetry.mjs"] }
+    "post-studio": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/server/telemetry.mjs"
+      ]
+    }
   }
 }

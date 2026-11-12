@@ -1,16 +1,31 @@
 {
   "name": "adgento",
-  "owner": { "name": "Adgento", "email": "hello@adgento.app" },
-  "metadata": { "description": "Free tools by Adgento for Claude.", "version": "0.6.0" },
+  "owner": {
+    "name": "Adgento",
+    "email": "hello@adgento.app"
+  },
+  "metadata": {
+    "description": "Free tools by Adgento for Claude.",
+    "version": "0.6.0"
+  },
   "plugins": [
     {
       "name": "post-studio",
       "source": "./post-studio",
       "description": "Post Studio: write and design on-brand social posts inside Claude. Free.",
-      "version": "0.6.0",
-      "author": { "name": "Adgento" },
+      "version": "0.6.1",
+      "author": {
+        "name": "Adgento"
+      },
       "category": "marketing",
-      "keywords": ["social media", "posts", "design", "marketing", "hebrew", "פוסטים"]
+      "keywords": [
+        "social media",
+        "posts",
+        "design",
+        "marketing",
+        "hebrew",
+        "\u05e4\u05d5\u05e1\u05d8\u05d9\u05dd"
+      ]
     }
   ]
 }
