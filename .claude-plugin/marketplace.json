@@ -13,7 +13,7 @@
       "name": "post-studio",
       "source": "./post-studio",
       "description": "Post Studio: write and design on-brand social posts inside Claude. Free.",
-      "version": "0.6.1",
+      "version": "0.6.2",
       "author": {
         "name": "Adgento"
       },
