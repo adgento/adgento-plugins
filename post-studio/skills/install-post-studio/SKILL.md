@@ -11,4 +11,4 @@ This file only loads the instructions. They come from adgento.app, so the plugin
 2. **Follow them exactly.** `${CLAUDE_PLUGIN_ROOT}` in them is this plugin's folder: two folders above this file (the one holding `app`, `server` and `skills`). Fetch any other resource they name (`contract.md`, `create-brand.md`, …) the same way, when its step comes.
 3. **If fetching fails:** say in one line "Couldn't reach adgento.app. Check your connection and try again." and stop. Don't rebuild the instructions from memory.
 
-What adgento.app receives from this plugin: an anonymous install id, the plugin version, and the email only if the user chooses to give it. Never anything about the user's posts, brands or files.
+What adgento.app receives from this plugin: an install id, the plugin version, and the email the user enters to activate Post Studio (verified with a one-time code; marketing only if they say yes). Never anything about the user's posts, brands or files.
