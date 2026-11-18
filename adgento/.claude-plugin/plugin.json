@@ -1,6 +1,6 @@
 {
   "name": "adgento",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Adgento: a full-service digital marketing agency inside Claude. Nine specialists (setup, account director, strategy, SEO, paid media, content, creative, analytics, client reports) that research, plan, build campaigns and deliver PDF reports, in Hebrew or English. 14-day free trial.",
   "author": {
     "name": "Adgento",
@@ -22,14 +22,5 @@
     "reports",
     "israel",
     "hebrew"
-  ],
-  "mcpServers": {
-    "adgento": {
-      "type": "stdio",
-      "command": "node",
-      "args": [
-        "${CLAUDE_PLUGIN_ROOT}/server/adgento.mjs"
-      ]
-    }
-  }
+  ]
 }

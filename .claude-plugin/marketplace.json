@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Adgento for Claude: the Adgento marketing agency and the free Post Studio.",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "plugins": [
     {
@@ -31,7 +31,7 @@
       "name": "adgento",
       "source": "./adgento",
       "description": "Adgento: a digital marketing agency inside Claude. Strategy, SEO, Google and Meta campaigns, content, creative, analytics and PDF reports, in Hebrew or English. 14-day free trial.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Adgento"
       },

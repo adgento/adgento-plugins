@@ -6,7 +6,7 @@ Plugins by [Adgento](https://adgento.app).
 
 A digital marketing agency inside Claude: strategy, SEO, Google and Meta campaigns, content, creative, analytics and PDF reports, in Hebrew or English. 14-day free trial.
 
-**Install:** add the marketplace below, install **adgento**, then in a new chat write **activate Adgento** (your email + a 6-digit code). More: [adgento/README.md](adgento/README.md)
+**Install:** add the marketplace below, install **adgento**, then connect `https://adgento.app/mcp` in Settings → Connectors and sign in with your email. Guide: https://adgento.app/install/
 
 ## Post Studio
 
