@@ -5,8 +5,8 @@
     "email": "hello@adgento.app"
   },
   "metadata": {
-    "description": "Free tools by Adgento for Claude.",
-    "version": "0.6.0"
+    "description": "Adgento for Claude: the Adgento marketing agency and the free Post Studio.",
+    "version": "0.7.0"
   },
   "plugins": [
     {
@@ -25,6 +25,26 @@
         "marketing",
         "hebrew",
         "\u05e4\u05d5\u05e1\u05d8\u05d9\u05dd"
+      ]
+    },
+    {
+      "name": "adgento",
+      "source": "./adgento",
+      "description": "Adgento: a digital marketing agency inside Claude. Strategy, SEO, Google and Meta campaigns, content, creative, analytics and PDF reports, in Hebrew or English. 14-day free trial.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Adgento"
+      },
+      "category": "marketing",
+      "keywords": [
+        "marketing",
+        "agency",
+        "seo",
+        "google ads",
+        "meta ads",
+        "reports",
+        "hebrew",
+        "\u05e9\u05d9\u05d5\u05d5\u05e7"
       ]
     }
   ]

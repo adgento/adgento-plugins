@@ -1,6 +1,12 @@
 # Adgento for Claude
 
-Free tools by [Adgento](https://adgento.app).
+Plugins by [Adgento](https://adgento.app).
+
+## Adgento
+
+A digital marketing agency inside Claude: strategy, SEO, Google and Meta campaigns, content, creative, analytics and PDF reports, in Hebrew or English. 14-day free trial.
+
+**Install:** add the marketplace below, install **adgento**, then in a new chat write **activate Adgento** (your email + a 6-digit code). More: [adgento/README.md](adgento/README.md)
 
 ## Post Studio
 
